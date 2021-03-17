@@ -33,7 +33,7 @@ public class htmlUnitTest {
 
 
 		String str = "CIT 496P";
-		Assert.assertTrue(pageSource.contains(str)); 
+		// Assert.assertTrue(pageSource.contains(str)); <---------- LAB 3
 
 		System.out.println("------------------------------");
 		System.out.println("This page contains : " + str );
@@ -41,6 +41,10 @@ public class htmlUnitTest {
 		     
 		     
 		// <-- End of your test code
+
+
+
+		//this a testing for lab 3 <---------- LAB 3
 
 		driver.quit();			
 	}		
