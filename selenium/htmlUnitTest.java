@@ -39,8 +39,15 @@ public class htmlUnitTest {
 		System.out.println("This page contains : " + str );
 		System.out.println("------------------------------");
 		     
-		     
+
+
 		// <-- End of your test code
+
+		// anais is testing for lab 3 <-------- LAB 3
+
+
+
+
 
 		driver.quit();			
 	}		
