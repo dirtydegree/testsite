@@ -1,5 +1,9 @@
 # Welcome to Jekyll!
+<<<<<<< HEAD
 # darwin <---- Lab3.10
+=======
+# admin <---- Lab3.10 sec
+>>>>>>> 55c79c0155208c836ddc3b32388d252c9343f327
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
