@@ -33,14 +33,27 @@ public class htmlUnitTest {
 
 
 		String str = "CIT 496P";
-		Assert.assertTrue(pageSource.contains(str)); 
+		// Assert.assertTrue(pageSource.contains(str)); <---------- LAB 3
 
 		System.out.println("------------------------------");
 		System.out.println("This page contains : " + str );
 		System.out.println("------------------------------");
 		     
-		     
+
+
 		// <-- End of your test code
+
+<<<<<<< HEAD
+		// anais is testing for lab 3 <-------- LAB 3
+
+
+
+
+=======
+
+
+		//this a testing for lab 3 <---------- LAB 3
+>>>>>>> 488d8a99862edec032d41f7f35ba4f96b8cfb748
 
 		driver.quit();			
 	}		
