@@ -1,0 +1,143 @@
+[33mcommit f76b07f9ce514f9fdaee3ce55d5355e8365cdb37[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mmainMods[m[33m)[m
+Author: Pedram <pedram.ashrafi.239@my.csun.edu>
+Date:   Tue Mar 23 23:19:02 2021 -0700
+
+    ok
+
+[33mcommit baecc801ec0c1d80b61532a84813cc65c6235db1[m[33m ([m[1;31morigin/mainMods[m[33m)[m
+Author: pedram <pedram.ashrafi.239@my.csun.edu>
+Date:   Tue Mar 23 17:59:56 2021 -0700
+
+    ok
+
+[33mcommit 2576fe65b3aa10e67dc0f3d2cd7de5cec6254d7a[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: pedram <pedram.ashrafi.239@my.csun.edu>
+Date:   Tue Mar 23 14:25:06 2021 -0700
+
+    ok
+
+[33mcommit 71cf799ddf84e8794cac6413a3f271232b8dfb40[m
+Merge: d31703a 55c79c0
+Author: pedram <pedram.ashrafi.239@my.csun.edu>
+Date:   Tue Mar 23 13:52:27 2021 -0700
+
+    ok
+
+[33mcommit 55c79c0155208c836ddc3b32388d252c9343f327[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 012db1d f20d208
+Author: PEDram <52586901+dirtydegree@users.noreply.github.com>
+Date:   Mon Mar 22 19:04:55 2021 -0700
+
+    Merge pull request #1 from dirtydegree/frontendUpdate
+    
+    Frontend update
+
+[33mcommit f20d2089be36be494fc417ab2d9181d95779842c[m[33m ([m[1;31morigin/frontendUpdate[m[33m)[m
+Author: pedram <pedram.ashrafi.239@my.csun.edu>
+Date:   Mon Mar 22 17:48:19 2021 -0700
+
+    lab3.10
+
+[33mcommit e8aaa913dedd93add4b509fdd2f0c5584699ec99[m
+Author: pedram <pedram.ashrafi.239@my.csun.edu>
+Date:   Sun Mar 21 22:48:55 2021 -0700
+
+    lab3.10 section
+
+[33mcommit a958a7364bc1d82b5e55769ed5ecfb78c2e795b4[m
+Author: pedram <pedram.ashrafi.239@my.csun.edu>
+Date:   Sun Mar 21 22:44:36 2021 -0700
+
+    lab3.10
+
+[33mcommit d31703a1a1c3b50ef0cd47aa29bcaf5281203245[m
+Author: pedram <pedram.ashrafi.239@my.csun.edu>
+Date:   Sun Mar 21 22:36:57 2021 -0700
+
+    lab3.10
+
+[33mcommit 9efa3dd2690467603a13b071bb0f24ebd58aa65a[m
+Merge: 8baf6a8 f753ec6
+Author: darwin <darwin@pedram.comm>
+Date:   Sun Mar 21 02:48:54 2021 -0700
+
+    lab3.7 :: removing error
+
+[33mcommit 8baf6a839ee8ce05fc95a4afcc7e33f23f872439[m
+Author: darwin <darwin@pedram.comm>
+Date:   Sat Mar 20 19:12:07 2021 -0700
+
+    darwin-lab3.4
+
+[33mcommit f79e76007212c494b73cbc1ba0f8d952bf398a67[m
+Author: darwin <darwin@pedram.comm>
+Date:   Sat Mar 20 17:04:55 2021 -0700
+
+    darwin3.4
+
+[33mcommit 2e1bd837bb7336a6c175475d8175c2e3068eaeaa[m
+Merge: 31a6ad8 488d8a9
+Author: pedram <pedram.ashrafi.239@my.csun.edu>
+Date:   Sat Mar 20 16:41:37 2021 -0700
+
+    ok
+
+[33mcommit 31a6ad81a7f0dfc7c1f89a3f0c963e124bdbb190[m
+Author: darwin <darwin@pedram.comm>
+Date:   Sat Mar 20 16:14:27 2021 -0700
+
+    darwin 4.6
+
+[33mcommit f753ec69aad2a6e22287c8d0183e0bbeb1c0a23b[m
+Author: darwin <darwin@pedram.comm>
+Date:   Thu Mar 18 16:10:06 2021 -0700
+
+    ok
+
+[33mcommit 488d8a99862edec032d41f7f35ba4f96b8cfb748[m[33m ([m[1;31morigin/darwinFrontend[m[33m)[m
+Author: pedram <pedram.ashrafi.239@my.csun.edu>
+Date:   Thu Mar 18 00:12:17 2021 -0700
+
+    ok
+
+[33mcommit 6eb93f21c39ee57c3c123a5ef87b49e8d38703da[m
+Author: pedram <pedram.ashrafi.239@my.csun.edu>
+Date:   Wed Mar 17 00:52:30 2021 -0700
+
+    ok
+
+[33mcommit 8a37fb502914ac8925a04263ddb7018921ca9137[m
+Author: pedram <pedram.ashrafi.239@my.csun.edu>
+Date:   Wed Mar 17 00:40:36 2021 -0700
+
+    renaming master to main
+
+[33mcommit 012db1d0c9df6e8d8a6f2ff27fddf21f8a7490a9[m[33m ([m[1;31morigin/slave[m[33m, [m[1;31morigin/modTesting[m[33m, [m[1;31morigin/gumballFrontend[m[33m)[m
+Author: PEDram <52586901+dirtydegree@users.noreply.github.com>
+Date:   Tue Mar 2 21:52:40 2021 -0800
+
+    proj2 - selenium
+
+[33mcommit 77eefecd6f268d4e081e07e8c255baa601734e81[m
+Author: PEDram <52586901+dirtydegree@users.noreply.github.com>
+Date:   Tue Mar 2 21:51:09 2021 -0800
+
+    project02
+
+[33mcommit 536cebc79b1ee31f708f3971a8349fddd618a4be[m
+Author: pedram <pedram.ashrafi@my.csun.edu>
+Date:   Sun Feb 7 18:12:06 2021 -0800
+
+    Step 8 HW
+
+[33mcommit ad0c5c17d0e0cd50a0bf4dee0b22a56a96a88801[m
+Author: pedram <pedram.ashrafi@my.csun.edu>
+Date:   Sun Feb 7 18:00:04 2021 -0800
+
+    Step 8 homwork
+
+[33mcommit 7bdd2405f5a004ec56eed7a20b2295c5d2594d00[m
+Author: pedram <pedram.ashrafi.239@my.csun.edu>
+Date:   Sat Feb 6 23:10:04 2021 -0800
+
+    initializing repo
